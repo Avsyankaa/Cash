@@ -8,3 +8,4 @@ unsigned long sum_random_detour(unsigned* array, unsigned capacity) {
 		capacity--;
 	}
 }
+
